@@ -8,8 +8,8 @@ Sentiment Analysis on Twitter tweet data
 Building an API for sentiment prediction for text and tweet csv file
 
 ### Files used
-train_preprocess.tsv.txt as tweet data file for model training obtained from binar academy
-data.csv as csv file provided for sentiment analysis
+train_preprocess.tsv.txt as tweet data file for model training obtained from binar academy.
+data.csv as data file is provided for sentiment analysis
 
 ### Dependencies
 The python code works with numpy and pandas libraries
